@@ -1,0 +1,140 @@
+body {
+  margin: 0;
+  font-family: 'Arial', sans-serif;
+}
+
+#navbar {
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+  margin-bottom: 20px;
+  background-color:beige ;
+}
+#navbar :hover{
+  color: red;
+  font-size: large;
+}
+#navbar ul {
+  list-style: none;
+  display: flex;
+}
+
+#navbar a {
+  text-decoration: none;
+}
+
+#navbar li {
+  margin: 0 15px;
+}
+
+#HOME {
+  display: flex;
+  align-items: center;
+}
+
+#logo {
+  margin-right: 20px; /* Add margin to the right of the logo */
+}
+
+#logo img {
+  width: 200px; /* Adjusted width */
+  border-radius: 20%;
+}
+
+#creds {
+  display: flex;
+  flex-direction: column;
+}
+
+#creds h1,
+#creds h3 {
+  margin: 0;
+  margin-top: 20px;
+}
+
+#SOCIALSTOP {
+  margin-top: auto;
+  margin-right: 20px; /* Add margin to the right of the social icons */
+  display: flex;
+  justify-content: flex-end;
+}
+
+#SOCIALSTOP ul {
+  list-style: none;
+  display: flex;
+}
+
+#SOCIALSTOP li {
+  margin-left: 10px;
+}
+
+#ABOUT,
+#PROJECTS,
+#FOOTER {
+  text-align: center;
+  padding: 80px;
+}
+
+#contact {
+  margin-bottom: 20px;
+  margin-top: 5px;
+}
+
+#SOCIALSBOTTOM ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+}
+
+#SOCIALSBOTTOM li {
+  margin: 0 10px;
+}
+#PROJECTS {
+  text-align: center;
+  padding: 80px;
+  background-color: pink;
+}
+
+.project-container {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 20px;
+}
+
+.project {
+  text-align: center;
+  display: flex;
+}
+
+.project img {
+  width: 200px; /* Adjust the width as needed */
+  border-radius: 10px;
+}
+
+.project p {
+  margin-top: 10px;
+}
+
+#HOME{
+  background-color: pink;
+}
+#ABOUT{
+  background-color: beige;
+  padding: 80px;
+  
+}
+#FOOTER{
+ background: url('footerlg.jpg.jpg');
+ 
+ 
+}
+#hire {
+  font-size: 16px;
+    font-weight: 200;
+    background-color: rgb(151, 89, 89);
+    color: #f6f6f6;
+    text-decoration: none;
+    padding: 1rem 2rem;
+    border-radius: 90px;
+    padding: 1px;
+}
