@@ -15,40 +15,33 @@ Welcome to my personal portfolio! This repository showcases my skills, projects,
 
 ## About Me
 
-I am a passionate [your profession/title] with a strong background in [mention relevant areas]. My journey in the world of [industry/domain] has equipped me with valuable experiences and skills that I'm eager to contribute to exciting projects.
+I am a passionate web developer with a strong background in coding. My journey in the world of programming has equipped me with valuable experiences and skills that I'm eager to contribute to exciting projects.
 
 ## Skills
 
-- *Programming Languages:* [List languages you're proficient in]
-- *Web Development:* [Specify technologies like HTML, CSS, JavaScript, etc.]
-- *Tools and Technologies:* [Include relevant tools and technologies]
-- *Soft Skills:* [Highlight soft skills like communication, teamwork, etc.]
+- *Programming Languages:HTML,CSS
+- *Web Development:* Specify technologies like HTML, CSS, JavaScript, etc.
+
 
 ## Projects
 
-### Project 1: [Project Name]
+### Project 1: TO-DO-LIST
 
-[Description and key highlights of the project. Include technologies used, your role, and outcomes.]
+Reminds the user on his task for the day making work eqasier and consuming less time
 
-### Project 2: [Project Name]
+### Project 2: QUIZ APP
 
-[Description and key highlights of the project. Include technologies used, your role, and outcomes.]
+Answers questions asked by the user.
 
-... [Add more projects as needed]
 
-## Education
 
-- *Degree, Major*
-  - University Name, Graduation Year
-- *Additional Certification*
-  - Certification Name, Issuing Body, Year
+
 
 ## Contact
 
-Feel free to reach out to me via email at [your.email@example.com]. You can also connect with me on [LinkedIn](https://www.linkedin.com/in/yourlinkedinprofile/) or check out my [personal website](https://www.yourwebsite.com) for more information.
+Feel free to reach out to me via email at selassiemiriam23@gmail.com.
 
 Thank you for visiting my portfolio!
 
 --- 
 
-Note: Replace placeholders like [your profession/title], [List languages you're proficient in], etc., with your actual information.
