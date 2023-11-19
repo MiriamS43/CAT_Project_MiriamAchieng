@@ -8,9 +8,7 @@ Welcome to my personal portfolio! This repository showcases my skills, projects,
 ## Table of Contents
 
 - [About Me](#about-me)
-- [Skills](#skills)
 - [Projects](#projects)
-- [Education](#education)
 - [Contact](#contact)
 
 ## About Me
